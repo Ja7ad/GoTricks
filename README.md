@@ -1,2 +1,2 @@
-# GoTricks
-Experience tricks with Go
+# Page 1
+
